@@ -1602,7 +1602,7 @@ Featured:NewButton("RPG Control", "PATCHED!", function()
 end)
 game.StarterGui:SetCore("SendNotification", {
 	Title = "Desire Hub",
-	Text = "Welcome To Desire Hub! Copied Discord link to your clipboard (Target)",
+	Text = "Welcome To Desire Hub! Copied Discord link to your clipboard. Enjoy!",
 	Duration = 10,
 })
 enabled = true
